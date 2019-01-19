@@ -1,0 +1,2 @@
+in this assignment:
+add modal in dishdetailComponent.js and use react redux form and validation
